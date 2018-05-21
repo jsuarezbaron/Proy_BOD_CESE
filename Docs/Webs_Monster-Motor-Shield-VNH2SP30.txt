@@ -1,0 +1,26 @@
+Webs sobre le fucnionamiento del Monster-Motor-Shield-VNH2SP30 basado en el driver VNH2SP30
+
+Tutorial for Monster Motor Shield VNH2SP30
+www.instructables.com/id/Monster-Motor-Shield-VNH2SP30/
+
+SparkFun Monster Moto Shield
+https://www.sparkfun.com/products/10182
+
+Driving Vehicle Using Ultrasonic range finders
+https://sites.google.com/site/ultrasonicrangefinder/theory/motor-controller
+
+
+/*****************************************Ejemplos deCódigo***********************************************/
+Monster Motor Shield with Encoders
+https://codebender.cc/sketch:280914#Monster%20Motor%20Shield%20with%20Encoders.ino
+
+
+NucleoF401_MonsterMotoShield
+Simple Example of Program for the Sparkfun Monster Moto Shield https://www.sparkfun.com/products/10182 with the ST Nucleo F401RE 
+
+https://os.mbed.com/users/donsez/code/NucleoF401_MonsterMotoShield/file/50670948e4d6/main.cpp/
+
+/***************************************************************************************************************/
+
+Current sensing pin on monster moto shield 
+http://forum.arduino.cc/index.php?topic=338633.0
